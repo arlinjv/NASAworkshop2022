@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "PMecho"
+		},
+		{
+			"path": "CCS811practice"
+		},
+		{
+			"path": "ESP32blink"
+		},
+		{
+			"path": "SerialEcho"
+		},
+		{
+			"path": "BasicExPainlessMesh"
+		},
+		{
+			"path": "PMmonitor"
+		},
+		{
+			"path": "PMserialPlotter"
+		},
+		{
+			"path": "StartHereExPainlessMesh"
+		}
+	]
+}
